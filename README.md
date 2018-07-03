@@ -5,6 +5,8 @@ A MATLAB simulation of the piezomagnetic effects due to seismic activity as pres
 
 In order to run the simulation, the only requirement is a recent (2015 or later) version of MATLAB installed on your system. Simply clone the repository and load it into the MATLAB IDE. Then run `run_simulation.m` which will run the GUI to view the simulation.
 
+<img src="docs/images/program1.png" width="25%">
+
 ## Built With
 
 * [MATLAB](https://www.mathworks.com/products/matlab.html) - developed using R2015b, but any recent version should function.
